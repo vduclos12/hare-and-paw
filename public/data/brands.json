@@ -1,0 +1,252 @@
+[
+  {
+    "id": "seventh-generation-laundry",
+    "brand": "Seventh Generation",
+    "category": "Household",
+    "subcategory": "Laundry Detergent",
+    "certifiedBy": "Both",
+    "vegan": false,
+    "website": "seventhgeneration.com",
+    "notes": "Cruelty-free but not all products are vegan"
+  },
+  {
+    "id": "seventh-generation-dish",
+    "brand": "Seventh Generation",
+    "category": "Household",
+    "subcategory": "Dish Soap",
+    "certifiedBy": "Both",
+    "vegan": false,
+    "website": "seventhgeneration.com",
+    "notes": "Cruelty-free but not all products are vegan"
+  },
+  {
+    "id": "seventh-generation-allpurpose",
+    "brand": "Seventh Generation",
+    "category": "Household",
+    "subcategory": "All-Purpose Cleaner",
+    "certifiedBy": "Both",
+    "vegan": false,
+    "website": "seventhgeneration.com",
+    "notes": "Cruelty-free but not all products are vegan"
+  },
+  {
+    "id": "seventh-generation-bodywash",
+    "brand": "Seventh Generation",
+    "category": "Personal Care",
+    "subcategory": "Body Wash",
+    "certifiedBy": "Both",
+    "vegan": false,
+    "website": "seventhgeneration.com",
+    "notes": "Cruelty-free but not all products are vegan"
+  },
+  {
+    "id": "elf-foundation",
+    "brand": "e.l.f. Cosmetics",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "elfcosmetics.com",
+    "notes": "100% vegan and cruelty-free across all products"
+  },
+  {
+    "id": "elf-mascara",
+    "brand": "e.l.f. Cosmetics",
+    "category": "Makeup",
+    "subcategory": "Mascara",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "elfcosmetics.com",
+    "notes": "100% vegan and cruelty-free across all products"
+  },
+  {
+    "id": "elf-lipcolor",
+    "brand": "e.l.f. Cosmetics",
+    "category": "Makeup",
+    "subcategory": "Lip Color",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "elfcosmetics.com",
+    "notes": "100% vegan and cruelty-free across all products"
+  },
+  {
+    "id": "elf-eyeshadow",
+    "brand": "e.l.f. Cosmetics",
+    "category": "Makeup",
+    "subcategory": "Eyeshadow",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "elfcosmetics.com",
+    "notes": "100% vegan and cruelty-free across all products"
+  },
+  {
+    "id": "elf-blush",
+    "brand": "e.l.f. Cosmetics",
+    "category": "Makeup",
+    "subcategory": "Blush",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "elfcosmetics.com",
+    "notes": "100% vegan and cruelty-free across all products"
+  },
+  {
+    "id": "elf-moisturizer",
+    "brand": "e.l.f. Cosmetics",
+    "category": "Skincare",
+    "subcategory": "Moisturizer",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "elfcosmetics.com",
+    "notes": "100% vegan and cruelty-free across all products"
+  },
+  {
+    "id": "pacifica-moisturizer",
+    "brand": "Pacifica Beauty",
+    "category": "Skincare",
+    "subcategory": "Moisturizer",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "pacificabeauty.com",
+    "notes": "100% vegan and cruelty-free since founding"
+  },
+  {
+    "id": "pacifica-serum",
+    "brand": "Pacifica Beauty",
+    "category": "Skincare",
+    "subcategory": "Serum",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "pacificabeauty.com",
+    "notes": "100% vegan and cruelty-free since founding"
+  },
+  {
+    "id": "pacifica-cleanser",
+    "brand": "Pacifica Beauty",
+    "category": "Skincare",
+    "subcategory": "Cleanser",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "pacificabeauty.com",
+    "notes": "100% vegan and cruelty-free since founding"
+  },
+  {
+    "id": "pacifica-foundation",
+    "brand": "Pacifica Beauty",
+    "category": "Makeup",
+    "subcategory": "Foundation",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "pacificabeauty.com",
+    "notes": "100% vegan and cruelty-free since founding"
+  },
+  {
+    "id": "pacifica-mascara",
+    "brand": "Pacifica Beauty",
+    "category": "Makeup",
+    "subcategory": "Mascara",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "pacificabeauty.com",
+    "notes": "100% vegan and cruelty-free since founding"
+  },
+  {
+    "id": "pacifica-perfume",
+    "brand": "Pacifica Beauty",
+    "category": "Personal Care",
+    "subcategory": "Perfume",
+    "certifiedBy": "Both",
+    "vegan": true,
+    "website": "pacificabeauty.com",
+    "notes": "100% vegan and cruelty-free since founding"
+  },
+  {
+    "id": "burts-bees-lipbalm",
+    "brand": "Burt's Bees",
+    "category": "Personal Care",
+    "subcategory": "Lip Balm",
+    "certifiedBy": "Leaping Bunny",
+    "vegan": false,
+    "website": "burtsbees.com",
+    "notes": "Leaping Bunny certified. Not vegan — some products contain beeswax and honey"
+  },
+  {
+    "id": "burts-bees-moisturizer",
+    "brand": "Burt's Bees",
+    "category": "Skincare",
+    "subcategory": "Moisturizer",
+    "certifiedBy": "Leaping Bunny",
+    "vegan": false,
+    "website": "burtsbees.com",
+    "notes": "Leaping Bunny certified. Not vegan — some products contain beeswax and honey"
+  },
+  {
+    "id": "burts-bees-bodywash",
+    "brand": "Burt's Bees",
+    "category": "Personal Care",
+    "subcategory": "Body Wash",
+    "certifiedBy": "Leaping Bunny",
+    "vegan": false,
+    "website": "burtsbees.com",
+    "notes": "Leaping Bunny certified. Not vegan — some products contain beeswax and honey"
+  },
+  {
+    "id": "burts-bees-bodylotion",
+    "brand": "Burt's Bees",
+    "category": "Personal Care",
+    "subcategory": "Body Lotion",
+    "certifiedBy": "Leaping Bunny",
+    "vegan": false,
+    "website": "burtsbees.com",
+    "notes": "Leaping Bunny certified. Not vegan — some products contain beeswax and honey"
+  },
+  {
+    "id": "method-dishsoap",
+    "brand": "Method",
+    "category": "Household",
+    "subcategory": "Dish Soap",
+    "certifiedBy": "Leaping Bunny",
+    "vegan": true,
+    "website": "methodproducts.com",
+    "notes": "Leaping Bunny certified and vegan"
+  },
+  {
+    "id": "method-allpurpose",
+    "brand": "Method",
+    "category": "Household",
+    "subcategory": "All-Purpose Cleaner",
+    "certifiedBy": "Leaping Bunny",
+    "vegan": true,
+    "website": "methodproducts.com",
+    "notes": "Leaping Bunny certified and vegan"
+  },
+  {
+    "id": "method-laundry",
+    "brand": "Method",
+    "category": "Household",
+    "subcategory": "Laundry Detergent",
+    "certifiedBy": "Leaping Bunny",
+    "vegan": true,
+    "website": "methodproducts.com",
+    "notes": "Leaping Bunny certified and vegan"
+  },
+  {
+    "id": "method-bodywash",
+    "brand": "Method",
+    "category": "Personal Care",
+    "subcategory": "Body Wash",
+    "certifiedBy": "Leaping Bunny",
+    "vegan": true,
+    "website": "methodproducts.com",
+    "notes": "Leaping Bunny certified and vegan"
+  },
+  {
+    "id": "method-handsoap",
+    "brand": "Method",
+    "category": "Personal Care",
+    "subcategory": "Hand Soap",
+    "certifiedBy": "Leaping Bunny",
+    "vegan": true,
+    "website": "methodproducts.com",
+    "notes": "Leaping Bunny certified and vegan"
+  }
+]
